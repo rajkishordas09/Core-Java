@@ -5,4 +5,6 @@ public class Identifiers {
        System.out.println(a+"\n"+b);
    }
 }
+//any name in java called
 //all pre-define class name can also write as identifier but not recommended
+// case-sensitive
