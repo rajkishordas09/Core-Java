@@ -5,4 +5,4 @@ public class Identifiers {
        System.out.println(a+"\n"+b);
    }
 }
-//all pre-define class name can also write as identifier
+//all pre-define class name can also write as identifier but not recommended
